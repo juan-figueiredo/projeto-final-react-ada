@@ -1,0 +1,26 @@
+.btn {
+  display: flex;
+  flex-direction: column;
+  transition: .5s all;
+}
+
+.btn button {
+  margin-bottom: 1rem;
+  transition: .5s all;
+  width: 230px;
+  height: 30px;
+  text-decoration: none;
+  border-radius: .5rem;
+  background-color: transparent;
+}
+
+.btn button:hover{
+  background-color: #0d0120;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(179, 146, 233);
+  font-weight: 600;
+}

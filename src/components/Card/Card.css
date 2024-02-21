@@ -1,0 +1,10 @@
+.card-container {
+  width: 250px;
+  box-shadow: 0 0 10px #8935e9;
+  border-radius: 1rem;
+  background-color: #17013a;
+  display: flex;
+  margin: 5rem;
+}
+
+
